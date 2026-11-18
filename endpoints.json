@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "issuedAt": 1795012105295,
+  "issuedAt": 1795012833631,
   "payload": "{\"ai\":\"https://ai.sheyou.shop\",\"control\":\"https://ai3.sheyou.shop\",\"market\":\"https://ai3.sheyou.shop\",\"relay\":\"https://ai.sheyou.shop\"}",
   "sig": "ed25519:d325f3903c6b939fcbcf8c7d45592e2bef79a4c354ae7c955b985ce1de9bcb0d412adcec0a0433f92ef096a6e6016e36fb089e6160e4e9c39082f4410421df09"
 }
